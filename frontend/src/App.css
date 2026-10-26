@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f2f2f2;
+}
+
+.app {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+  background: white;
+  border: 1px solid #ccc;
+}
+
+.block {
+  margin-top: 15px;
+}
+
+.preview {
+  max-width: 300px;
+  max-height: 300px;
+}
+
+button {
+  margin-top: 15px;
+  padding: 8px 16px;
+  background: #4a7bd0;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.error {
+  color: red;
+}
